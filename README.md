@@ -1,1 +1,1 @@
-<img src="[https://github.com/mihaelacsn/lab5_PWeb/blob/main/GIF.gif.gif](https://github.com/mihaelacsn/lab5_PWeb/blob/main/recording.gif)" width=800 />
+<img src="https://github.com/mihaelacsn/lab5_PWeb/blob/main/recording.gif" width=800 />
